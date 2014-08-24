@@ -1,0 +1,24 @@
+{
+  "name": "sails-config-mongo-session",
+  "version": "0.0.0",
+  "description": "sails-config plugin to configure mongo session store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavaro/sails-config-mongo-session.git"
+  },
+  "keywords": [
+    "sails-config",
+    "mongodb",
+    "session",
+    "store"
+  ],
+  "author": "kavaro <karl.van.rompaey@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavaro/sails-config-mongo-session/issues"
+  }
+}
