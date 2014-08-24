@@ -1,6 +1,6 @@
 {
   "name": "sails-config-mongo-session",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sails-config plugin to configure mongo session store",
   "main": "index.js",
   "scripts": {
