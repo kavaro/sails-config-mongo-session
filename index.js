@@ -6,7 +6,6 @@ module.exports = function(sailsConfig) {
     return sailsConfig.configurator('session', {
         modules: {
             'connect-session': {
-                update: true,
                 uninstall: true
             }
         },
