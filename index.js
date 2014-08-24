@@ -5,7 +5,7 @@
 module.exports = function(sailsConfig) {
     return sailsConfig.configurator('session', {
         modules: {
-            'connect-session': {
+            'connect-mongo': {
                 uninstall: true
             }
         },
